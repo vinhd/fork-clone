@@ -1,2 +1,8 @@
 This is erics file for the cloned fork-clone
 
+HTML SECTION
+<b>
+  <\b>
+
+TEST SECTION
+  print hello world
